@@ -2,7 +2,7 @@
 
   vars:
     LOCAL_PROJECT_HOME: "./lab2"
-    PROJECT_HOME: "/home/dda/andersen"
+    PROJECT_HOME: "/home/<your_user>/andersen"
     MAIN_PY: "simple_flask_lab.py"
     PORT: 8080
 
